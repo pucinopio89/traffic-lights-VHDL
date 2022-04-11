@@ -1,4 +1,4 @@
-# traffic-lights-VHDL
+# TRAFFIC-LIGHTS-VHDL
 Enunțul proiectului:
 Proiectați un controler secvențial de lumini pentru intersecția străzilor A și B. Fiecare stradă are
 senzori de trafic care detectează prezența vehiculelor care se apropie sau se opresc la intersecție
